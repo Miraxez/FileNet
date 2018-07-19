@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+	<person>
+		<firstName>Александр</firstName>
+		<lastName>Сергеевич</lastName>
+		<patronymic>Пушкин</patronymic>
+		<position>Бухгалтер</position>
+		<id>1000</id>	
+	</person>
+	<person>
+		<firstName>Виталий</firstName>
+		<lastName>Канашин</lastName>
+		<patronymic>Владленович</patronymic>
+		<position>Оператор</position>
+		<id>1001</id>	
+	</person>
+	<person>
+		<firstName>Виктор</firstName>
+		<lastName>Никифоров</lastName>
+		<patronymic>Александрович</patronymic>
+		<position>Главный Бухгалтер</position>
+		<id>1002</id>
+	</person>
+	<person>
+		<firstName>Анатолий</firstName>
+		<lastName>Чацкий</lastName>
+		<patronymic>Артемович</patronymic>
+		<position>Специалист отдела снабжения</position>
+		<id>1003</id>	
+	</person>
+	<person>
+		<firstName>Анатолий</firstName>
+		<lastName>Чацкий</lastName>
+		<patronymic>Артемович</patronymic>
+		<position>Администратор</position>
+		<id>1004</id>	
+	</person>
+	<person>
+		<firstName>Руслан</firstName>
+		<lastName>Назаров</lastName>
+		<patronymic>Марселевич</patronymic>
+		<position>Инспектор</position>
+		<id>1005</id>	
+	</person>
+</people>
+	

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organizations>
+    <organization>
+		<chief>
+		<firstName>Александр</firstName>
+		<lastName>Сергеевич</lastName>
+		<patronymic>Пушкин</patronymic>
+		<position>Бухгалтер</position>
+		<id>1000</id>
+		</chief>
+		<fullName>Уфимский государственный авиационный технический университет</fullName>
+		<shortName>УГАТУ</shortName>
+		<telephone>8-917-752-27-29</telephone>
+		<id>1000</id>
+	</organization>
+	<organization>
+		<chief>
+		<firstName>Виктор</firstName>
+		<lastName>Никифоров</lastName>
+		<patronymic>Александрович</patronymic>
+		<position>Главный Бухгалтер</position>
+		<id>1002</id>
+		</chief>
+	</organization>
+	<organization>
+		<chief>
+		<firstName>Руслан</firstName>
+		<lastName>Назаров</lastName>
+		<patronymic>Марселевич</patronymic>
+		<position>Инспектор</position>
+		<id>1005</id>
+		</chief>
+		<fullName>Уфимское моторостроительное производственное объединение</fullName>
+		<shortName>УМПО</shortName>
+		<telephone>8-896-456-25-45</telephone>
+		<id>1002</id>
+	</organization>
+</organizations>

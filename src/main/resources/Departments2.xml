@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<departments>
+    <department>
+		<chief>
+		<firstName>Анатолий</firstName>
+		<lastName>Чацкий</lastName>
+		<patronymic>Артемович</patronymic>
+		<position>Специалист отдела снабжения</position>
+		<id>1003</id>
+		</chief>
+		<fullName>Отдел стратегического развития предприятия</fullName>
+		<shortName>Отдел развития</shortName>
+		<telephone>8-919-619-01-86</telephone>
+		<id>1000</id>
+	</department>
+	<department>
+		<chief>
+		<firstName>Анатолий</firstName>
+		<lastName>Чацкий</lastName>
+		<patronymic>Артемович</patronymic>
+		<position>Администратор</position>
+		<id>1004</id>
+		</chief>
+		<fullName>Бухгалтерия</fullName>
+		<shortName>Бухгалтерия</shortName>
+		<telephone>8-989-169-36-56</telephone>
+		<id>1001</id>
+	</department>
+	<department>
+		<chief>
+		<firstName>Виктор</firstName>
+		<lastName>Никифоров</lastName>
+		<patronymic>Александрович</patronymic>
+		<position>Главный Бухгалтер</position>
+		<id>1002</id>
+		</chief>
+		<fullName>Отдел труда и заработной платы</fullName>
+		<shortName>Отдел труда и ЗП</shortName>
+		<telephone>8-785-956-65-53</telephone>
+		<id>1002</id>
+	</department>
+</departments>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	version="3.1">
+	<display-name>FileNet</display-name>
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	<servlet>
+		<servlet-name>author</servlet-name>
+		<jsp-file>/autor.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>author</servlet-name>
+		<url-pattern>/author</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>documents</servlet-name>
+		<jsp-file>/documents.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>documents</servlet-name>
+		<url-pattern>/documents</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>documentContent</servlet-name>
+		<jsp-file>/documentContent.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>documentContent</servlet-name>
+		<url-pattern>/documentContent</url-pattern>
+	</servlet-mapping>
+</web-app>

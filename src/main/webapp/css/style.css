@@ -1,0 +1,53 @@
+
+th, td {
+    padding: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table tr:nth-child(odd) {
+    background-color: #c0c0c0;
+}
+table tr:nth-child(even) {
+   background-color: #dbeeee;
+}
+
+table tr:hover td {
+	background-color: white;
+	transition:0;
+}
+
+table th {
+	background-color: #a4a4a4;
+} 
+
+div#doc {
+	width: 300px;
+	background: #dbeeee;
+    padding: 10px; 
+    border: solid 2px black; 
+    float: left;
+    margin-top:10px; 
+} 
+
+div {
+	background: #a4a4a4;
+    padding: 5px; 
+    border: solid 1px black; 
+    float: left;
+    margin-top:10px; 
+    line-height: 1.5;
+}
+
+div#wrap {
+	background: #cdcdcd; 
+} 
+
+div.button {
+	font-weight: bold;
+}
+
+

@@ -1,0 +1,8 @@
+/target/
+.classpath
+.project
+derby.log
+/appDB/
+/.settings/
+/bin/
+/WebContent/
